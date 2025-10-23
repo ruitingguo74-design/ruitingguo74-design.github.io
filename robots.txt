@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ruitingguo.github.io//sitemap.xml
