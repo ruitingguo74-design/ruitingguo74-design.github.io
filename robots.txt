@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ruitingguo.github.io//sitemap.xml
+Sitemap: https://ruitinggu74-design.github.io//sitemap.xml
